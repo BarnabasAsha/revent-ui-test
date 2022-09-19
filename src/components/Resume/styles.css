@@ -1,0 +1,36 @@
+.__resume {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 45px;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.__resume_col {
+  display: flex;
+  flex-direction: column;
+  row-gap: 45px;
+  padding-left: 30px;
+  border-left: 5px solid #FCE82F;
+}
+
+.__resume_col_yr {
+  font-weight: 700;
+  font-size: 1.88rem;
+  line-height: 2.31rem;  
+}
+
+.__resume_col_sch {
+  font-weight: 600;
+  font-size: 1.38rem;
+  line-height: 1.69rem;  
+}
+
+.__resume_col_desc {
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.5rem;  
+}
+

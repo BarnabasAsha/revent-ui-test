@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar'
+export { default as Hero } from './Hero'
+export { default as About } from './About'
+export { default as HeadingTwo } from './HeadingTwo'
+export { default as Portfolio } from './Portfolio'
+export { default as Resume } from './Resume'
+export { default as Contact } from './Contact'

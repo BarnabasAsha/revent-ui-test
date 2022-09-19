@@ -1,0 +1,8 @@
+export { default as BehanceIcon } from './BehanceIcon'
+export { default as DribbleIcon } from './DribbleIcon'
+export { default as FacebookIcon } from './FacebookIcon'
+export { default as HeadingVector } from './HeadingVector'
+export { default as PhoneIcon } from './PhoneIcon'
+export { default as SendIcon } from './SendIcon'
+export { default as HeroVector } from './HeroVector'
+export { default as Logo } from './Logo'

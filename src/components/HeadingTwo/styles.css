@@ -1,0 +1,21 @@
+
+.__revent_heading2x {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.__revent_heading2x h2 {
+  font-weight: 700;
+  font-size: 1.88rem;
+  line-height: 2.31rem;
+  color: #fff;  
+}
+
+.__revent_heading2x svg {
+  width: 146px;
+}

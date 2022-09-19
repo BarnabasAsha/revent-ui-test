@@ -1,0 +1,40 @@
+
+.__about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  row-gap: 35px;
+  column-gap: 25px;
+}
+
+.__about_img {
+  max-width: 503px;
+  width: 48%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.__about_content {
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
+  max-width: 510px;
+}
+
+.__about_content_title {
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1.5rem;  
+}
+
+@media screen and (max-width: 800px) {
+
+  .__about {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+ 
+  .__about_img {
+   width: 100%;
+  }
+ }
